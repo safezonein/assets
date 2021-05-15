@@ -1,0 +1,11 @@
+{
+    "name": "SafeGO.Finance",
+    "website": "https://SafeGO.Finance",
+    "description": "WardenSwap is the digital asset exchange platform that uses an algorithm to find the best rate for Binance Smart Chain automatically.",
+    "explorer": "https://bscscan.com/token/0x62430baf685116938092d1f5db1151f7143daf62",
+    "type": "BEP20",
+    "symbol": "SAFEGO ",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x62430baf685116938092d1f5db1151f7143daf62"
+}
